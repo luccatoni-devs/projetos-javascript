@@ -1,2 +1,2 @@
 # exemplo_TODO
-Exemplo de lista com local storage
+Contém um gerenciador de tarefas simples em JavaScript, utilizando o localStorage para armazenar as tarefas do usuário. O código permite adicionar, remover e listar tarefas dinamicamente, garantindo que os dados persistam mesmo após recarregar a página. É uma implementação básica de manipulação do DOM e armazenamento local, ideal para quem deseja praticar conceitos fundamentais de JavaScript.
